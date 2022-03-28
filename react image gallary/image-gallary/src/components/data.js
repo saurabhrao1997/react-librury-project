@@ -1,0 +1,34 @@
+export const  Data = [
+    {
+        id:"1",
+        img:"https://cdn.statusqueen.com/mobilewallpaper/thumbnail/mobile_wallpaper448-821.jpg"
+    },
+    {
+        id:"2",
+        img:"https://images.pexels.com/photos/1156684/pexels-photo-1156684.jpeg?cs=srgb&dl=pexels-arun-thomas-1156684.jpg&fm=jpg"
+    },
+    {
+        id:"3",
+        img:"https://cdn.statusqueen.com/mobilewallpaper/thumbnail/mobile_wallpaper361-819.jpg"
+    },
+    {
+        id:"4",
+        img:"https://images.pexels.com/photos/1535162/pexels-photo-1535162.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+    },
+    {
+        id:"5",
+        img:"https://cdn.wallpapersafari.com/40/88/ZRl5Ft.jpg"
+    },
+    {
+        id:"6",
+        img:"https://ghantee.com/wp-content/uploads/2021/02/Shiv-hindu-god-wallpaper-hd-for-mobile-576x1024.jpg"
+    },
+    {
+        id:"7",
+        img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz8Xlj2U24UPUOwfBpMamxe8_IqkpF78kqGg&usqp=CAU"
+    },
+    {
+        id:"8",
+        img:"https://www.myfreewalls.com/public/uploads/preview/spiderman-red-suit-mobile-wallpaper-61631513658fqxrlm1znu.jpg"
+    },
+]

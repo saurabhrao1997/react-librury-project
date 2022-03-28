@@ -1,0 +1,39 @@
+
+
+
+.app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 200px;
+
+}
+
+.container{
+    box-shadow: 1px 1px 12px rgba(0,0,0,0.2);
+    padding: 20px 20px;
+
+}
+input{
+    display: block;
+    padding: 4px 0;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+.btn{
+    display: block;
+    width: 100%;
+    padding: 4px 0px;
+    margin: 10px 0px;
+    border-radius: 4px;
+    background-color: darkcyan;
+    color: aliceblue;
+    cursor:pointer;
+}
+
+.center{
+    text-align: center;
+    text-shadow: 5px 5px 12px rgba(0,0,0,0.2);
+    color:cornflowerblue
+}
